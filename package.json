@@ -1,0 +1,21 @@
+{
+  "name": "rega-theme",
+  "displayName": " rega.theme",
+  "description": "Dark Darky",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "rega.theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rega.them-color-theme.json"
+      }
+    ]
+  }
+}
