@@ -3,7 +3,7 @@
   "displayName": " rega.theme",
   "description": "Dark Darky",
   "version": "0.0.1",
-  "publisher": "Chandra Prakash Darji",
+  "publisher": "regatheme",
   "engines": {
     "vscode": "^1.85.0"
   },
@@ -19,7 +19,7 @@
       {
         "label": "rega.theme",
         "uiTheme": "vs-dark",
-        "path": "./themes/rega.them-color-theme.json"
+        "path": "./themes/rega.theme-color-theme.json"
       }
     ]
   }
