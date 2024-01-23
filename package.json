@@ -6,6 +6,10 @@
   "engines": {
     "vscode": "^1.85.0"
   },
+  "repository": {
+    "url": "https://github.com/Chandraprakash-Darji/rega.theme",
+    "type": "git"
+  },
   "categories": [
     "Themes"
   ],
