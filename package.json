@@ -3,6 +3,7 @@
   "displayName": " rega.theme",
   "description": "Dark Darky",
   "version": "0.0.1",
+  "publisher": "Chandra Prakash Darji",
   "engines": {
     "vscode": "^1.85.0"
   },
